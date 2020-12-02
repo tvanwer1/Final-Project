@@ -32,5 +32,5 @@ Beer has been a potable for centuries. My undergraduate thesis utilized SPSS & t
 
 + [Pandas](https://pandas.pydata.org/), [Numpy](https://numpy.org/), [TextBlob](https://textblob.readthedocs.io/en/dev/install.html), [Scikit-learn](https://scikit-learn.org/stable/index.html) - data analysis
 	
-+ [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/ ) - data visualization
++ [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/ ), [Plotly_Express](https://plotly.com/python/) - data visualization
 
