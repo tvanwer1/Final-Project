@@ -1,9 +1,27 @@
-# Final-Project
+# Data601 Final Project - Beer Review Breakdown Project :beer:
+
 ## • Overview
 
-## • Goals
+In this project I will implement tools and techniques learned in Data601
+
+### Introduction
+
+In this project we will be working with a beer review data. This is the dataset disccused in the talk " How to hire and test for data skills: A one-size-fits-all interview kit" from https://conferences.oreilly.com/strata/strata-ny-2017/public/schedule/detail/59542. This files contains around 1.5 Millions reviews of Beer from BeerAdvocates. The data isn't perfect which allows for opportunites to showcase subject knowledge.
+
+Scenario: 
+
+Acknowledgements
+BeerAdvocate and Tanya Cashorali for talking about this great dataset
+
+## Goals
+
+## Motivation & Background
+
 
 ## • Data
+
+('https://query.data.world/s/gib6aa6n3tmtuvrqpbdlhcbgdg7tk4')
+
 
 ## • Table of Content
 1. [Code](https://github.com/tvanwer1/)
