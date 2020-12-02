@@ -17,6 +17,7 @@ BeerAdvocate and Tanya Cashorali for talking about this great dataset
 
 ## Motivation & Background
 
+Beer has been a potable for centuries. My undergraduate thesis utilized SPSS & tasting data from a Beers of the World course being offered. At that time, craft beers were a niche segment of the overall market but with devote followers. As the craft beer market continues to increase market share, breweries would be interested in data on what styles, ABV %, names, aroma profile, appearance, palate, taste consumers prefer. Retailers also would want to know that data to assist in inventory, marketing campaigns and building consumer loyalty.  
 
 ## • Data
 
