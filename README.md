@@ -8,7 +8,7 @@ In this project I will implement tools and techniques learned in Data601
 
 In this project we will be working with beer reviews data. This is the dataset disccused in the talk " How to hire and test for data skills: A one-size-fits-all interview kit" from https://conferences.oreilly.com/strata/strata-ny-2017/public/schedule/detail/59542. This files contains around 1.5 Millions reviews of Beer from BeerAdvocates. The data isn't perfect which allows for opportunites to showcase subject knowledge.
 
-Scenario: As we try to predict overall favorability on beer styles; we suppose we are working for brewery/retailer's marketting department. AS a result of this project, we will give them suggested ratings based on user reviews.
+Scenario: As we try to predict overall favorability on beer styles; we suppose we are working for brewery/retailer's marketing department. As a result of this project, we will give them suggested ratings based on user reviews.
 
 Acknowledgements
 BeerAdvocate and Tanya Cashorali for talking about this great dataset
@@ -16,7 +16,9 @@ BeerAdvocate and Tanya Cashorali for talking about this great dataset
 ## Goals
 
 Goals in this project:
+
 -Identify which beer styles generate the strongest positive reviews
+
 -Train a model with a 
 
 ## Motivation & Background
