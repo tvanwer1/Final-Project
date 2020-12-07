@@ -19,7 +19,7 @@ Goals in this project:
 
 -Identify which beer styles generate the strongest positive reviews
 
--Train a model with a 
+-Train a model on beer style with logistic regression
 
 ## Motivation & Background
 
