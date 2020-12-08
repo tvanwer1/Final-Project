@@ -31,8 +31,8 @@ Beer has been a potable for centuries. My undergraduate thesis utilized SPSS & t
 
 
 ## • Table of Content
-1. [Code](https://github.com/tvanwer1/)
-2. [Python Notebook](https://github.com/tvanwer1/)
+1. [Code](https://github.com/tvanwer1/Final-Project/blob/main/data/)
+2. [My Final Project Report](https://github.com/tvanwer1/Final-Project/blob/main/Technical%20Notebook/Final%20Project%20Report%20Beer_Review.ipynb)
 
 ## • Packages and Software
 
