@@ -1,4 +1,4 @@
-# Data601 Final Project - BeerAdvocate Beer Reviews Analysis :beer:
+# Data601 Final Project - BeerAdvocate Beer Reviews Analysis :beer:  :beer:
 
 ## • Overview
 
